@@ -1,1 +1,1 @@
-This file contains my GCP learning notes from coursera.
+This repository contains my GCP learning notes from coursera.
